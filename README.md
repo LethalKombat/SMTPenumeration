@@ -12,4 +12,4 @@ Before running the script, ensure you have the following installed:
 
 ## Usage:
 ```bash
-python3 check_smtp_ports_nmap.py
+python3 nmap_smtp_ports.py
