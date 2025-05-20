@@ -1,4 +1,4 @@
-# SMTP Port Scanner
+# smtpScanner
 
 This Python script scans for open SMTP ports on a specified host using the `nmap` library. It checks for the following ports: 25, 587, 465, and 2525.
 
